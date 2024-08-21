@@ -1,10 +1,5 @@
-# sec005-group13
-Group project 
-Hello, hiahflafjakldjfa
-fasd
-fa
-sf
-asa
-fafadsfklsdjaflsdakjmaryd alfkja
-a
-fasd
+# Classifying Pulsars using k-NN algorithm
+
+In this group project, I worked with @trami-dole and @MichaelZhang33 to
+analyse the pulsars (rotating neutron stars) using R
+and then used k-NN algorithm to classify pulsars with 97% accuracy
